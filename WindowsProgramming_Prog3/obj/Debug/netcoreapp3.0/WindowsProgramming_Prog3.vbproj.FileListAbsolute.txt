@@ -1,0 +1,6 @@
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog3\WindowsProgramming_Prog3\WindowsProgramming_Prog3\obj\Debug\netcoreapp3.0\WindowsProgramming_Prog3.vbprojAssemblyReference.cache
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog3\WindowsProgramming_Prog3\WindowsProgramming_Prog3\obj\Debug\netcoreapp3.0\WindowsProgramming_Prog3.Form1.resources
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog3\WindowsProgramming_Prog3\WindowsProgramming_Prog3\obj\Debug\netcoreapp3.0\WindowsProgramming_Prog3.vbproj.GenerateResource.cache
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog3\WindowsProgramming_Prog3\WindowsProgramming_Prog3\obj\Debug\netcoreapp3.0\WindowsProgramming_Prog3.AssemblyInfoInputs.cache
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog3\WindowsProgramming_Prog3\WindowsProgramming_Prog3\obj\Debug\netcoreapp3.0\WindowsProgramming_Prog3.AssemblyInfo.vb
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog3\WindowsProgramming_Prog3\WindowsProgramming_Prog3\obj\Debug\netcoreapp3.0\WindowsProgramming_Prog3.vbproj.CoreCompileInputs.cache

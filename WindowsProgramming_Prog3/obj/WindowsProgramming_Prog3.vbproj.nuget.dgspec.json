@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Group Program 3\\WindowsProgramming_Prog3\\WindowsProgramming_Prog3.vbproj": {}
+    "C:\\Users\\jaele\\Desktop\\Programming\\Programming Stuff\\WindowsProgramming\\Prog3\\WindowsProgramming_Prog3\\WindowsProgramming_Prog3\\WindowsProgramming_Prog3.vbproj": {}
   },
   "projects": {
-    "C:\\Group Program 3\\WindowsProgramming_Prog3\\WindowsProgramming_Prog3.vbproj": {
+    "C:\\Users\\jaele\\Desktop\\Programming\\Programming Stuff\\WindowsProgramming\\Prog3\\WindowsProgramming_Prog3\\WindowsProgramming_Prog3\\WindowsProgramming_Prog3.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Group Program 3\\WindowsProgramming_Prog3\\WindowsProgramming_Prog3.vbproj",
+        "projectUniqueName": "C:\\Users\\jaele\\Desktop\\Programming\\Programming Stuff\\WindowsProgramming\\Prog3\\WindowsProgramming_Prog3\\WindowsProgramming_Prog3\\WindowsProgramming_Prog3.vbproj",
         "projectName": "WindowsProgramming_Prog3",
-        "projectPath": "C:\\Group Program 3\\WindowsProgramming_Prog3\\WindowsProgramming_Prog3.vbproj",
-        "packagesPath": "C:\\Users\\Benjy\\.nuget\\packages\\",
-        "outputPath": "C:\\Group Program 3\\WindowsProgramming_Prog3\\obj\\",
+        "projectPath": "C:\\Users\\jaele\\Desktop\\Programming\\Programming Stuff\\WindowsProgramming\\Prog3\\WindowsProgramming_Prog3\\WindowsProgramming_Prog3\\WindowsProgramming_Prog3.vbproj",
+        "packagesPath": "C:\\Users\\jaele\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jaele\\Desktop\\Programming\\Programming Stuff\\WindowsProgramming\\Prog3\\WindowsProgramming_Prog3\\WindowsProgramming_Prog3\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Benjy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jaele\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +60,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
