@@ -1,0 +1,11 @@
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog3\WindowsProgramming_Prog3\WindowsProgramming_Prog3\obj\Debug\net461\WindowsProgramming_Prog3.vbproj.GenerateResource.cache
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog3\WindowsProgramming_Prog3\WindowsProgramming_Prog3\obj\Debug\net461\WindowsProgramming_Prog3.vbprojAssemblyReference.cache
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog3\WindowsProgramming_Prog3\WindowsProgramming_Prog3\bin\Debug\net461\WindowsProgramming_Prog3.exe.config
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog3\WindowsProgramming_Prog3\WindowsProgramming_Prog3\bin\Debug\net461\WindowsProgramming_Prog3.exe
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog3\WindowsProgramming_Prog3\WindowsProgramming_Prog3\bin\Debug\net461\WindowsProgramming_Prog3.pdb
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog3\WindowsProgramming_Prog3\WindowsProgramming_Prog3\obj\Debug\net461\WindowsProgramming_Prog3.Form1.resources
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog3\WindowsProgramming_Prog3\WindowsProgramming_Prog3\obj\Debug\net461\WindowsProgramming_Prog3.AssemblyInfoInputs.cache
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog3\WindowsProgramming_Prog3\WindowsProgramming_Prog3\obj\Debug\net461\WindowsProgramming_Prog3.AssemblyInfo.vb
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog3\WindowsProgramming_Prog3\WindowsProgramming_Prog3\obj\Debug\net461\WindowsProgramming_Prog3.vbproj.CoreCompileInputs.cache
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog3\WindowsProgramming_Prog3\WindowsProgramming_Prog3\obj\Debug\net461\WindowsProgramming_Prog3.exe
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog3\WindowsProgramming_Prog3\WindowsProgramming_Prog3\obj\Debug\net461\WindowsProgramming_Prog3.pdb

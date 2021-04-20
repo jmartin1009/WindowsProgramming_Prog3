@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="Current">
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net5.0-windows</TargetFramework>
+    <TargetFramework>net461</TargetFramework>
     <RootNamespace>WindowsProgramming_Prog3</RootNamespace>
     <StartupObject>WindowsProgramming_Prog3.Form1</StartupObject>
     <UseWindowsForms>true</UseWindowsForms>

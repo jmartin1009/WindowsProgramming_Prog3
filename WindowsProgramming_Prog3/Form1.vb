@@ -45,6 +45,7 @@
             Me.Refresh()
             clockThreadSec.Sleep(1000)
         Loop
+
     End Sub
 
     Private Sub timeUpMin()
